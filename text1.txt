@@ -1,1 +1,1 @@
-Guess what this is a sample text1 file
+file changed to text2
